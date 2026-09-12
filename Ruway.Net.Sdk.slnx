@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Folder Name="/packages/" />
+  <Folder Name="/packages/Ruway.Net.Core/" />
+  <Folder Name="/packages/Ruway.Net.Core/src/" />
+  <Folder Name="/packages/Ruway.Net.Core/tests/" />
+  <Folder Name="/packages/Ruway.Net.PubSub/" />
+  <Folder Name="/samples/" />
+</Solution>
