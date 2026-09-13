@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ruway.Net.PubSub.Abstractions/Ruway.Net.PubSub.Abstractions.csproj" />
+    <Project Path="src/Ruway.Net.PubSub/Ruway.Net.PubSub.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
