@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Repositorios\\DEV\\Ruway.Net.Sdk\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFD60A6-489A-462B-94DC-29D4DF9BAB21}|packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Ruway.Net.PubSub.csproj|c:\\repositorios\\dev\\ruway.net.sdk\\packages\\ruway.net.pubsub\\src\\ruway.net.pubsub\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFD60A6-489A-462B-94DC-29D4DF9BAB21}|packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Ruway.Net.PubSub.csproj|solutionrelative:packages\\ruway.net.pubsub\\src\\ruway.net.pubsub\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFD60A6-489A-462B-94DC-29D4DF9BAB21}|packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Ruway.Net.PubSub.csproj|c:\\repositorios\\dev\\ruway.net.sdk\\packages\\ruway.net.pubsub\\src\\ruway.net.pubsub\\publishers\\inmemoryeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFD60A6-489A-462B-94DC-29D4DF9BAB21}|packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Ruway.Net.PubSub.csproj|solutionrelative:packages\\ruway.net.pubsub\\src\\ruway.net.pubsub\\publishers\\inmemoryeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFD60A6-489A-462B-94DC-29D4DF9BAB21}|packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Ruway.Net.PubSub.csproj|c:\\repositorios\\dev\\ruway.net.sdk\\packages\\ruway.net.pubsub\\src\\ruway.net.pubsub\\resolvers\\eventkeyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFD60A6-489A-462B-94DC-29D4DF9BAB21}|packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Ruway.Net.PubSub.csproj|solutionrelative:packages\\ruway.net.pubsub\\src\\ruway.net.pubsub\\resolvers\\eventkeyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Repositorios\\DEV\\Ruway.Net.Sdk\\packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Extensions.cs",
+              "RelativeDocumentMoniker": "packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Extensions.cs",
+              "ToolTip": "C:\\Repositorios\\DEV\\Ruway.Net.Sdk\\packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Extensions.cs",
+              "RelativeToolTip": "packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T00:05:34.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventKeyResolver.cs",
+              "DocumentMoniker": "C:\\Repositorios\\DEV\\Ruway.Net.Sdk\\packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Resolvers\\EventKeyResolver.cs",
+              "RelativeDocumentMoniker": "packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Resolvers\\EventKeyResolver.cs",
+              "ToolTip": "C:\\Repositorios\\DEV\\Ruway.Net.Sdk\\packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Resolvers\\EventKeyResolver.cs",
+              "RelativeToolTip": "packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Resolvers\\EventKeyResolver.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T00:05:04.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryEventPublisher.cs",
+              "DocumentMoniker": "C:\\Repositorios\\DEV\\Ruway.Net.Sdk\\packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Publishers\\InMemoryEventPublisher.cs",
+              "RelativeDocumentMoniker": "packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Publishers\\InMemoryEventPublisher.cs",
+              "ToolTip": "C:\\Repositorios\\DEV\\Ruway.Net.Sdk\\packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Publishers\\InMemoryEventPublisher.cs",
+              "RelativeToolTip": "packages\\Ruway.Net.PubSub\\src\\Ruway.Net.PubSub\\Publishers\\InMemoryEventPublisher.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T00:04:35.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

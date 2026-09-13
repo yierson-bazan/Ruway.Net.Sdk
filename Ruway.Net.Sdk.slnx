@@ -1,8 +1,16 @@
 <Solution>
   <Folder Name="/packages/" />
   <Folder Name="/packages/Ruway.Net.Core/" />
-  <Folder Name="/packages/Ruway.Net.Core/src/" />
+  <Folder Name="/packages/Ruway.Net.Core/src/">
+    <Project Path="packages/Ruway.Net.Core/src/Ruway.Net.Core.Abstractions/Ruway.Net.Core.Abstractions.csproj" Id="dae925d1-45a6-4f92-a97c-65b210eef251" />
+    <Project Path="packages/Ruway.Net.Core/src/Ruway.Net.Core/Ruway.Net.Core.csproj" Id="0c5e0b38-94d2-410f-9e29-bffaefbe188a" />
+  </Folder>
   <Folder Name="/packages/Ruway.Net.Core/tests/" />
   <Folder Name="/packages/Ruway.Net.PubSub/" />
+  <Folder Name="/packages/Ruway.Net.PubSub/src/">
+    <Project Path="packages/Ruway.Net.PubSub/src/Ruway.Net.PubSub.Abstractions/Ruway.Net.PubSub.Abstractions.csproj" Id="88ad62c1-71dc-4da7-ad96-65480a562870" />
+    <Project Path="packages/Ruway.Net.PubSub/src/Ruway.Net.PubSub/Ruway.Net.PubSub.csproj" Id="abfd60a6-489a-462b-94dc-29d4df9bab21" />
+  </Folder>
+  <Folder Name="/packages/Ruway.Net.PubSub/tests/" />
   <Folder Name="/samples/" />
 </Solution>
